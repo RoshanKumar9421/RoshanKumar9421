@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 # 💫 About Me:
-i am currently 1st year undergraduate  computer science and Engineering student<br>i am more passionate in Technology<br>Currently doing DSA in CPP And learning WEB3
+:  I'm Roshan Kumar, a first-year Computer Science student at Asansol Engineering College, 
+India, expected to graduate in 2028. As a committee-member of development society club of my college, 
+I've organized workshops and mentored peers, enhancing my collaboration and leadership skills.<br>Currently doing DSA in CPP And learning WEB3
 
 
 ## 🌐 Socials:
