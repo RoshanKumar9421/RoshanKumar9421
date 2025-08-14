@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cseroshan2028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cseroshan2028" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/roshan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan kumar" height="30" width="40" /></a>
-<a href="https://fb.com/roshan kumar yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roshan kumar yadav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/roshankumaryadav-/target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan kumar" height="30" width="40" /></a>
+
 <a href="https://instagram.com/roshanyadav_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roshanyadav_02" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/roshan_9421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="roshan_9421" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yadavroshankumar8271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yadavroshankumar8271" height="30" width="40" /></a>
