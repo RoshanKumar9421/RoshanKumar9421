@@ -43,7 +43,7 @@
 ---
 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%99%8C;—+Harsh+Vardhan" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%99%8C;—+ROSHAN KUMAR" alt="Typing SVG" /> 
 </h1> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshankumar9421&" alt="roshankumar9421" /></p>
