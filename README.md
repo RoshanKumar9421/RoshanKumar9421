@@ -30,4 +30,20 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshankumar9421&show_icons=true&locale=en" alt="roshankumar9421" /></p>
 
+## ​ Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoshanKumar9421&theme=react-dark&hide_border=true)
+
+---
+
+## ​ LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Roshankumar9421?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%99%8C;—+Harsh+Vardhan" alt="Typing SVG" /> 
+</h1> 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshankumar9421&" alt="roshankumar9421" /></p>
