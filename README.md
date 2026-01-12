@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
-<h2> Buildin personal project </h2> <br>
+<h2> Building personal project </h2> <br>
 <h3 align="center">Frontend Developer (HTML, CSS, JavaScript, Reactjs) | Learning Backend & Full Stack Web Dev | DSA in C++ | Aspiring Web3 Developer from India Open Source Contributor GSSoC (2024 & 2025) And Hacktoberfest(2024 & 2025) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankumar9421&label=Profile%20views&color=0e75b6&style=flat" alt="roshankumar9421" /> </p>
