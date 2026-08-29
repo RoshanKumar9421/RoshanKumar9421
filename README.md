@@ -242,7 +242,7 @@ Python is one of my main tools for **AI, automation, data analysis and problem s
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/Roshankumar9421?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/Roshan9421?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 
 </p>
 
@@ -272,7 +272,7 @@ Python is one of my main tools for **AI, automation, data analysis and problem s
 <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
 </a>
 
-<a href="https://leetcode.com/roshankumar9421/">
+<a href="https://leetcode.com/Roshan0421/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45"/>
 </a>
 
